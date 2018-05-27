@@ -1,0 +1,184 @@
+*{
+	margin:0;
+	padding:0;
+}
+ul,li,ol{
+	list-style: none;
+}
+a{
+	text-decoration: none;
+}
+.box{
+	width: 1200px;
+	margin:0 auto;
+	/*overflow: hidden;*/
+}
+.head{
+	margin:0 auto;
+	height:125px;
+}
+.head img{
+	margin:15px 220px;
+}
+.nav{
+	width: 1200px;
+	margin-top:15px;
+	height: 450px;
+	background-image: url(../img/background_01.png) no-repeat center center;
+
+}
+.nav li{
+	width: 70px;
+	height: 50px;
+	float: left;
+	margin:15px 35px;
+	background-image: url(../img/line_02.png) no-repeat right;
+	border-bottom:3px solid #1e50ae;
+}
+.nav li:last-child{
+background-image: none;
+}
+.banner{
+	height: 815px;
+}
+.word{
+	width: 175px;
+	height: 70px;
+	text-align: center;
+	margin:60px auto;
+}
+.up{
+	height: 360px;
+}
+.up li{
+	width: 151px;
+	margin-right:160px;
+	float:left;
+}
+.up li:last-child{
+	margin-right: 0;
+}
+.down{
+	height: 185px;
+	margin-bottom: 60px;
+}
+.down li{
+	width: 151px;
+	margin-right: 160px;
+	float: left;
+}
+.up,.down li p{
+	text-align: center;
+} 
+.small li{
+	list-style-image:url(../img/dot.png);
+	float:left;
+	margin-left: 40px;
+}
+.solution{
+	height: 710px;
+	background-image: url(../img/background_02.png);
+}
+.word1{
+	color:white;
+	height: 75px;
+	margin:65px auto;
+	text-align: center;
+}
+.solution li{
+	margin-top:10px;
+	margin-right:40px;
+	width: 225px;
+	height: 300px;
+	float: left;
+}
+.arrow{
+	width: 30px;
+	height: 33px;
+	margin-right:40px;
+}
+.solution img{
+	margin-top:70px;
+	/*text-align: center;*/
+	/*vertical-align: middle;*/
+}
+.latest{
+	height: 905px;
+}
+.left1{
+	width: 495px;
+	height: 293px;
+	float: left;
+	margin-bottom: 85px;
+}
+.left1 li{
+	float:left;
+	margin-right: 85px;
+}
+.right1{
+	width: 510px;
+	height: 245px;
+	margin-bottom: 85px;
+}
+.right1 img{
+	margin-top: 30px;
+}
+.left2{
+	height: 255px;
+	width: 495px;
+	margin-bottom: 95px;
+	margin-right: 85px;
+}
+.left2 li{
+	float: left;
+	margin-bottom: 30px;
+}
+.last{
+	width: 65px;
+	height: 135px;
+}
+.last li{
+	width: 20px;
+	height: 10px;
+	margin-bottom: 25px;
+	border-right: 1px solid #
+}
+.last1{
+	height: 105px;
+}
+.last1 li img{
+	float:left;
+}
+.last li{
+	width: 295px;
+	height: 105px;
+	border-right:1px solid #;
+}
+.help{
+	width: 250px;
+	height: 260px;
+}
+.help li{
+	float:right;
+	margin-bottom: 
+}
+.last2{
+	width: 735px;
+	height: 260px;
+	background-color: #
+}
+.last2 li{
+	margin-right:;
+	border-right: 1px solid #
+}
+.tail{
+	height: 55px;
+	width: 735px;
+	background-color: #
+}
+.tail li{
+	float:left;
+	border-right: 1px solid white;
+	color:white;
+
+}
